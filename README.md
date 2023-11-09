@@ -16,10 +16,10 @@ migliori per memorizzare ed accedere alle informazioni, rappresentarle, elaborar
 interpretarle programmando nel linguaggio Java.
 
 ## Struttura del Repository
-[Esempio_Primo_Esonero](https://github.com/checcoconf/Linguaggio-Java/tree/main/Esempio_Primo_Esonero)
-[Esercitazione_Capitoli_4_6 - Classi](https://github.com/checcoconf/Linguaggio-Java/tree/main/Esercitazione_Capitoli_4_6)
-[Esercitazione_Capitolo_9_10 - Ereditarietà e Classi Astratte](https://github.com/checcoconf/Linguaggio-Java/tree/main/Esercitazione_Capitolo_9_10)
-[Esecitazione Capitolo 10 - Interfacce](https://github.com/checcoconf/Linguaggio-Java/tree/main/Interfacce)
+- [Esempio_Primo_Esonero](https://github.com/checcoconf/Linguaggio-Java/tree/main/Esempio_Primo_Esonero)
+- [Esercitazione_Capitoli_4_6 - Classi](https://github.com/checcoconf/Linguaggio-Java/tree/main/Esercitazione_Capitoli_4_6)
+- [Esercitazione_Capitolo_9_10 - Ereditarietà e Classi Astratte](https://github.com/checcoconf/Linguaggio-Java/tree/main/Esercitazione_Capitolo_9_10)
+- [Esecitazione Capitolo 10 - Interfacce](https://github.com/checcoconf/Linguaggio-Java/tree/main/Interfacce)
 
 ## IDE Utilizzato
 <code><img alt="Eclipse" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"/></code>
