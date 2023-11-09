@@ -6,7 +6,7 @@
 
 # Repository Linguaggio Java
 
-Questo repository contiene esercizi, progetti e materiale di supporto per il corso Programmazion II.
+Questo repository contiene esercizi, progetti e materiale di supporto per il corso Programmazione II.
 
 ## Contenuti
 Il corso si propone di introdurre i principi del paradigma Object-Oriented
