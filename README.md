@@ -9,11 +9,9 @@
 Questo repository contiene esercizi, progetti e materiale di supporto per il corso Programmazione II.
 
 ## Contenuti
-Il corso si propone di introdurre i principi del paradigma Object-Oriented
-consentendo allo studente di acquisire le competenze per sviluppare modi efficaci ed 
-efficienti per risolvere problemi con l'uso del computer mettendo a punto i metodi
-migliori per memorizzare ed accedere alle informazioni, rappresentarle, elaborarle e
-interpretarle programmando nel linguaggio Java.
+Questo corso mira a fornire una solida introduzione ai principi fondamentali del paradigma Object-Oriented. 
+Gli studenti avranno l'opportunità di acquisire le competenze necessarie per sviluppare soluzioni efficienti e efficaci a problemi informatici complessi. 
+In particolare, si concentreranno sull'implementazione di metodi ottimali per la memorizzazione, l'accesso, la rappresentazione, l'elaborazione e l'interpretazione delle informazioni utilizzando il linguaggio di programmazione Java.
 
 ## Struttura del Repository
 - [Esempio_Primo_Esonero](https://github.com/checcoconf/Linguaggio-Java/tree/main/Esempio_Primo_Esonero) - [Traccia](https://github.com/checcoconf/Linguaggio-Java/blob/main/Esempio_Primo_Esonero/Traccia.pdf)
