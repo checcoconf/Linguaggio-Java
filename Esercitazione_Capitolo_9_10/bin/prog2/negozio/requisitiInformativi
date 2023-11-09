@@ -1,0 +1,7 @@
+Requisiti informativi dei prodotti
+- Il prezzo non può mai essere negativo
+- La data di scadenza deve essere almeno uguale alla data odierna
+- La percentuale di sconto è un valore compreso tra 0,01 e 0,75.
+- La garanzia è un valore compreso tra 2 mesi e 24 mesi.
+- Il tempo di conservazione è un valore almeno pari ad uno.
+- L’attributo codice , obbligatorio per ogni prodotto identifica univocamente un prodotto

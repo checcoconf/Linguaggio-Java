@@ -1,0 +1,1 @@
+typeSearchIndex = [{"l":"All Classes and Interfaces","u":"allclasses-index.html"},{"p":"negozio","l":"Negozio"},{"p":"negozio","l":"PrincipioNutritivo"},{"p":"negozio","l":"ProdottoAlimentare"},{"p":"negozio","l":"ProdottoElettronico"}];updateSearchResults();

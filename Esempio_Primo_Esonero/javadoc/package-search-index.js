@@ -1,0 +1,1 @@
+packageSearchIndex = [{"l":"All Packages","u":"allpackages-index.html"},{"m":"Esempio_Primo_Esonero","l":"negozio"},{"m":"Esempio_Primo_Esonero","l":"test"}];updateSearchResults();

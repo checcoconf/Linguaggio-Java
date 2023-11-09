@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<jardesc>
+    <jar path="/Users/pasqualeardimento/Desktop/negozioprodotti.jar"/>
+    <options buildIfNeeded="true" compress="true" descriptionLocation="/prodotti/negozio.jardesc" exportErrors="true" exportWarnings="true" includeDirectoryEntries="true" overwrite="false" saveDescription="true" storeRefactorings="false" useSourceFolders="false"/>
+    <storedRefactorings deprecationInfo="true" structuralOnly="false"/>
+    <selectedProjects/>
+    <manifest generateManifest="false" manifestLocation="/capitolo10VeicoliFactory/.settings/manifest" manifestVersion="1.0" reuseManifest="true" saveManifest="true" usesManifest="true">
+        <sealing sealJar="true">
+            <packagesToSeal/>
+            <packagesToUnSeal/>
+        </sealing>
+    </manifest>
+    <selectedElements exportClassFiles="true" exportJavaFiles="true" exportOutputFolder="false">
+        <javaElement handleIdentifier="=prodotti/src"/>
+        <file path="/prodotti/.classpath"/>
+        <file path="/prodotti/negozio.jardesc"/>
+        <file path="/prodotti/.project"/>
+        <folder path="/prodotti/doc"/>
+    </selectedElements>
+</jardesc>
