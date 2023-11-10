@@ -9,17 +9,15 @@
 Questo repository contiene esercizi, progetti e materiale di supporto per il corso Programmazione II.
 
 ## Contenuti
-Il corso si propone di introdurre i principi del paradigma Object-Oriented
-consentendo allo studente di acquisire le competenze per sviluppare modi efficaci ed 
-efficienti per risolvere problemi con l'uso del computer mettendo a punto i metodi
-migliori per memorizzare ed accedere alle informazioni, rappresentarle, elaborarle e
-interpretarle programmando nel linguaggio Java.
+Questo corso mira a fornire una solida introduzione ai principi fondamentali del paradigma Object-Oriented. 
+Gli studenti avranno l'opportunità di acquisire le competenze necessarie per sviluppare soluzioni efficienti e efficaci a problemi informatici complessi. 
+In particolare, si concentreranno sull'implementazione di metodi ottimali per la memorizzazione, l'accesso, la rappresentazione, l'elaborazione e l'interpretazione delle informazioni utilizzando il linguaggio di programmazione Java.
 
 ## Struttura del Repository
-- [Esempio_Primo_Esonero](https://github.com/checcoconf/Linguaggio-Java/tree/main/Esempio_Primo_Esonero)
-- [Esercitazione_Capitoli_4_6 - Classi](https://github.com/checcoconf/Linguaggio-Java/tree/main/Esercitazione_Capitoli_4_6)
-- [Esercitazione_Capitolo_9_10 - Ereditarietà e Classi Astratte](https://github.com/checcoconf/Linguaggio-Java/tree/main/Esercitazione_Capitolo_9_10)
-- [Esecitazione Capitolo 10 - Interfacce](https://github.com/checcoconf/Linguaggio-Java/tree/main/Interfacce)
+- [Esempio_Primo_Esonero](https://github.com/checcoconf/Linguaggio-Java/tree/main/Esempio_Primo_Esonero) - [Traccia](https://github.com/checcoconf/Linguaggio-Java/blob/main/Esempio_Primo_Esonero/Traccia.pdf)
+- [Esercitazione_Capitoli_4_6 - Classi](https://github.com/checcoconf/Linguaggio-Java/tree/main/Esercitazione_Capitoli_4_6) - [Traccia](https://github.com/checcoconf/Linguaggio-Java/blob/main/Esercitazione_Capitoli_4_6/Traccia.pdf)
+- [Esercitazione_Capitolo_9_10 - Ereditarietà e Classi Astratte](https://github.com/checcoconf/Linguaggio-Java/tree/main/Esercitazione_Capitolo_9_10) - [Traccia](https://github.com/checcoconf/Linguaggio-Java/blob/main/Esercitazione_Capitolo_9_10/Traccia.pdf)
+- [Esecitazione Capitolo 10 - Interfacce](https://github.com/checcoconf/Linguaggio-Java/tree/main/Interfacce) - [Traccia](https://github.com/checcoconf/Linguaggio-Java/blob/main/Interfacce/Traccia.pdf)
 
 ## IDE Utilizzato
 <code><img alt="Eclipse" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"/></code>
