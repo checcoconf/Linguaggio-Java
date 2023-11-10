@@ -18,6 +18,7 @@ final class Requisito {
 		
 	// *********	PRODOTTO ALIMENTARE	********* 
 		static final int MINTEMPCONSERVAZIONE=1;
+		static final int DEFAULTEMPCONSERVAZIONE=1;
 	// *********	FINE	********* 
 
 }

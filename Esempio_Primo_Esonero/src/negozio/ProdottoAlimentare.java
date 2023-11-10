@@ -22,7 +22,9 @@ public class ProdottoAlimentare extends Prodotto {
 			int tempoConservazione) {
 		super(codice, prezzoIniziale);
 		this.principioNutritivo = principioNutritivo;
-		this.tempoConservazione = tempoConservazione;
+		if (isTempoConservazioneOk(tempoConservazione)) {
+			this.tempoConservazione = tempoConservazione;
+		}
 	}
 
 
@@ -39,5 +41,25 @@ public class ProdottoAlimentare extends Prodotto {
 			prezzo/=2;
 		}	
 		return prezzo;
+	}
+	
+	/**
+	 * Verifica se il tempo di conservazione specificato è accettabile.
+	 *
+	 * @param tempoConservazione Il tempo di conservazione da verificare.
+	 * @return {@code true} se il tempo di conservazione è maggiore o uguale al valore predefinito,
+	 *         {@code false} altrimenti. Se il tempo di conservazione è inferiore al valore predefinito,
+	 *         viene impostato al valore predefinito.
+	 */
+	private static final boolean isTempoConservazioneOk(int tempoConservazione) {
+	    boolean tempoConservazioneOk = false;
+
+	    if (tempoConservazione >= Requisito.DEFAULTEMPCONSERVAZIONE) {
+	        tempoConservazioneOk = true;
+	    } else {
+	        tempoConservazione = Requisito.DEFAULTEMPCONSERVAZIONE;
+	    }
+
+	    return tempoConservazioneOk;
 	}
 }

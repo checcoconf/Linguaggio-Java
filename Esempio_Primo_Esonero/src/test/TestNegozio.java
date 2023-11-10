@@ -20,7 +20,7 @@ class TestNegozio {
 
 		ProdottoAlimentare P1 = new ProdottoAlimentare("1", 10, PrincipioNutritivo.GRASSI, 1);
 		
-		//ProdottoAlimentare P2 = new ProdottoAlimentare("2",8,lipidi, -2); ?
+		ProdottoAlimentare P2 = new ProdottoAlimentare("2",8, PrincipioNutritivo.VITAMINE, -2);
 		
 		ProdottoElettronico P3 = new ProdottoElettronico("1",1.80,4);
 		
@@ -30,11 +30,10 @@ class TestNegozio {
 		Negozio negozio = new Negozio();
 		
 		negozio.addProdotto(P1);
-		//negozio.addProdotto(P2);
+		negozio.addProdotto(P2);
 		negozio.addProdotto(P3);
 		negozio.addProdotto(P4);
 		
-		System.out.println("Il totale dei prodotti è: "+negozio.calcolaTotale()+ " €");
-		
+		System.out.println("Il totale dei prodotti è: "+negozio.calcolaTotale()+ " €");	
 	}
 }
