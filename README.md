@@ -18,7 +18,7 @@ In particolare, si concentreranno sull'implementazione di metodi ottimali per la
 - [Esercitazione_Capitoli_4_6 - Classi](https://github.com/checcoconf/Linguaggio-Java/tree/main/Esercitazione_Capitoli_4_6) - [Traccia](https://github.com/checcoconf/Linguaggio-Java/blob/main/Esercitazione_Capitoli_4_6/Traccia.pdf)
 - [Esercitazione_Capitolo_9_10 - Ereditarietà e Classi Astratte](https://github.com/checcoconf/Linguaggio-Java/tree/main/Esercitazione_Capitolo_9_10) - [Traccia](https://github.com/checcoconf/Linguaggio-Java/blob/main/Esercitazione_Capitolo_9_10/Traccia.pdf)
 - [Esecitazione Capitolo 10 - Interfacce](https://github.com/checcoconf/Linguaggio-Java/tree/main/Interfacce) - [Traccia](https://github.com/checcoconf/Linguaggio-Java/blob/main/Interfacce/Traccia.pdf)
-- [Esercitazione Capitolo 11 14 16 - Eccezioni e Collezioni](https://github.com/checcoconf/Linguaggio-Java/tree/main/esercitazione_capitolo_14_16) - [Traccia](https://github.com/checcoconf/Linguaggio-Java/blob/main/esercitazione_capitolo_14_16/esercitazione29Novembre2023.pdf)
+- [Esercitazione Capitoli 11_14_16 - Eccezioni e Collezioni](https://github.com/checcoconf/Linguaggio-Java/tree/main/esercitazione_capitolo_14_16) - [Traccia](https://github.com/checcoconf/Linguaggio-Java/blob/main/esercitazione_capitolo_14_16/esercitazione29Novembre2023.pdf)
 
 ## IDE Utilizzato
 <code><img alt="Eclipse" width="40px" src="https://cdn.freebiesupply.com/logos/large/2x/eclipse-11-logo-png-transparent.png"/></code>
