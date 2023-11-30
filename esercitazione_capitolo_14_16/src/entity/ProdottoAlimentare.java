@@ -89,7 +89,7 @@ public class ProdottoAlimentare extends Prodotto {
     @Override
     public String toString() {
         StringBuilder builder = new StringBuilder();
-        builder.append("ProdottoAlimentare [nome=");
+        builder.append("ProdottoAlimentare  [nome=");
         builder.append(getNome());
         builder.append(", costo=");
         builder.append(getCosto());
